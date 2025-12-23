@@ -18,6 +18,8 @@ Asked output of 3-4 javascript code snippets.
 Round 2: Level 1 technical interview
 
 DSA question : Given a string, remove the * and a character before it. e.g. let input = "xass**dsd*ff"; output should be xadsff.
+Link to leetcode problem: https://leetcode.com/problems/removing-stars-from-a-string/
+
 What will be the output of following code snippet?
 ```
 const user = {
